@@ -16,6 +16,9 @@
     "jest": "^29.7.0"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "express-oauth2-jwt-bearer": "^1.6.1",
+    "express-openid-connect": "^2.18.0",
     "firebase-admin": "^13.2.0"
   }
 }
